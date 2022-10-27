@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Fira Sans Regular";
+    src: url(../fonts/fira-sans.regular.ttf);
+}
+
+* {
+    font-family: "Fira Sans Regular";
+    background-color: rgb(233, 217, 217);
+}
+
+a {
+    color: rgba(139, 53, 53, 0.897);
+}
+
+.header-links {
+    text-align: center;
+}
+
+.main {
+    line-height: 1.5;
+    max-width: 740px;
+    margin: auto;
+    padding: 8px;
+}
